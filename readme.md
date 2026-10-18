@@ -1,5 +1,5 @@
-# Legacy Launcher Translation Repository
-The files `lang_en_US.properties` and `lang_ru_RU.properties` are maintained by the Legacy Launcher-developers.
+# TL Translation Repository
+The files `lang_en_US.properties` and `lang_ru_RU.properties` are maintained by the TL-developers.
 All new strings are added to these files.
 
 You should use one of these files as the source for your translation.
